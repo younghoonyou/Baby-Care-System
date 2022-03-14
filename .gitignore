@@ -1,7 +1,20 @@
 # OSX
 #
 .DS_Store
-
+.expo/
+.vscode/
+babel.config.js
+metro.config.js
+package-loc.json
+package.json
+yarn.lock
+.watchmainconfig
+.prettierrc.js
+.gitattributes
+.flowconfig
+.eslintrc.js
+.editorconfig
+.buckconfig
 # Xcode
 #
 build/

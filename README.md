@@ -12,8 +12,16 @@
 <div align="center">
   
 > # IDEA
-  <img src="https://user-images.githubusercontent.com/69233428/158266547-7edaf30e-2813-4266-a62a-bdf535d860ea.png" width="600">
-  <img src="https://user-images.githubusercontent.com/69233428/158266970-1b28c12b-021c-4d7d-b9f2-d0d33aaf7a62.png" width="600">
+  <img src="https://user-images.githubusercontent.com/69233428/158266547-7edaf30e-2813-4266-a62a-bdf535d860ea.png" width="500">
+  <img src="https://user-images.githubusercontent.com/69233428/158266970-1b28c12b-021c-4d7d-b9f2-d0d33aaf7a62.png" width="500">
+</div>
+  
+### Baby falls down from bed - Face Detection <br>
+### Baby falls asleep - Eye Detection <br>
+### Baby is crying - Frequency Analysis <br>
+
+### Feedback : Music , Humidifier
+  <div align="center">
   
 > # Detection
   <img src="https://user-images.githubusercontent.com/69233428/158262940-551d95c8-9a2a-46de-954a-42ac98ec36ca.png" width="640">
@@ -84,3 +92,4 @@
  ### Parent can see their baby Realtime streaming and they can adjust option Camera or Music , humidifier
   
  ### And if there were problems , Message Notification changed
+  </div>

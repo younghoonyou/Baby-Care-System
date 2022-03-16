@@ -39,7 +39,6 @@ build/
 .gradle
 local.properties
 *.iml
-
 # node.js
 #
 node_modules/
@@ -66,3 +65,19 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+/ios/Onesignalnotification
+/ios/GoogleService-Info.plist
+/ios/Podfile
+/ios/Podfile.lock
+/ios/instrumentscli0.trace/
+/ios/capTests/
+
+.watchmanconfig
+package-lock.json
+.expo/
+__tests__/
+.vscode/
+*.xcschemes
+*.pbxproj
+*.plist

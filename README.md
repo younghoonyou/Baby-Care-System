@@ -86,7 +86,7 @@
 > # <div align="center">App</div>
 <br>
   
-<img src="https://user-images.githubusercontent.com/69233428/158309397-4b8d3f1d-cee4-4c17-8ab0-fcc17d93bd52.gif" height="380">   <img src="https://user-images.githubusercontent.com/69233428/158308941-4e688870-af60-47bc-accb-2f66379497c5.png" height="380">
+<img src="https://user-images.githubusercontent.com/69233428/158309397-4b8d3f1d-cee4-4c17-8ab0-fcc17d93bd52.gif" height="380" width="200">   <img src="https://user-images.githubusercontent.com/69233428/158308941-4e688870-af60-47bc-accb-2f66379497c5.png" height="380">
 <img src="https://user-images.githubusercontent.com/69233428/158308571-3f64d2e8-6ad8-4064-912e-116a6b3b8988.png">
   
  ### Parent can see their baby Realtime streaming and they can adjust option Camera or Music , humidifier
